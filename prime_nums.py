@@ -1,5 +1,5 @@
-lower = 900
-upper = 1000
+lower = int(intput())
+upper = int(intput())
 
 print("Prime numbers between", lower, "and", upper, "are:")
 
