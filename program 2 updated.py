@@ -5,7 +5,7 @@
 # First import the calendar module  
 import calendar  
 # ask of month and year  
-yy = int(2021)  
-mm = int(10)  
+yy = int(input())  
+mm = int(input())  
 # display the calendar  
 print(calendar.month(yy,mm))
