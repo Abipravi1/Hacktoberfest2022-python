@@ -13,8 +13,14 @@ def binary_search(arr, x):
             return mid
     return -1
  
-arr = [ 5, 8, 14, 19, 40 ]
-x = 19
+arr = []
+n = int(input("Enter the number of elements in array : "))
+print("Enter the elements")
+for i in range(n):
+    arr.append(int(input()))
+
+x = int(input("Enter the element to search in the array : "))
+
 
 res = binary_search(arr, x)
  
