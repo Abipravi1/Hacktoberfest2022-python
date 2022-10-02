@@ -1,0 +1,42 @@
+/**
+*Pig Latin. noun. a secret language used by children in which any consonants at the beginning of a word are placed at the end, 
+*followed by -ay; for example cathedral becomes athedralcay.
+**/
+/*
+*This is a siple python code to implement Piglatin Translation
+*/
+
+name=input("Enter the name")
+print("The Initial word is :" +name)
+
+#converting the input name to lowercase
+name=name.lower()
+
+if(len(name)>0 and name.isalpha()) :
+    pyg='ay'
+    first=name[0]
+    new_word= name + first + pyg
+    new_word= new_word[1:len(new_word)]
+    print("PIG LATIN TRANSTATION OF THIS WORD IS : "+new_word)
+
+else:
+    print('Enter a valid String')  
+    
+/**
+
+Input 1
+Enter the nameRIYA
+The Initial word is :RIYA
+PIG LATIN TRANSTATION OF THIS WORD IS : iyaray
+
+Input2
+Enter the namedfgr345@
+The Initial word is :dfgr345@
+Enter a valid String
+
+Input3
+Enter the name
+The Initial word is :
+Enter a valid String
+
+**/
