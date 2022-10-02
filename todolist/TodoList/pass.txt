@@ -1,0 +1,5 @@
+https://127.0.0.1:8000/admin - to access admin panel
+
+user- todolist
+email - todolist@django.com
+pass - todolist
