@@ -1,7 +1,14 @@
+What is Hacktoberfest?
+Hacktoberfest is an annual festival hosted by DigitalOcean that takes place in the month of October to celebrate the open source community. As part of this 31-day celebration, contributors and open source maintainers are encouraged to work on open source projects and win swag to mark the occasion.
+
+
 # Hacktoberfest2022-python
 This is an open repo where the users can add any python script that works perectly
 
 The users can able to add the any script here or add the solution of some problems in problem solving in python for hacktoberfest2022
+
+# Join us on discord
+https://discord.gg/pSup8ZZV
 
 
 **How to make successfull PRs**
