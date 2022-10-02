@@ -27,6 +27,12 @@ The users can able to add the any script here or add the solution of some proble
 - [ ]  Click on `Create Pull Request`
 - [ ] now you have successfully created an pull request
 
+<<<<<<< HEAD
 
 (https://th.bing.com/th/id/OIP.u1_95pteVoHelkW7zno08AHaEK?w=289&h=180&c=7&r=0&o=5&pid=1.7)[https://th.bing.com/th/id/OIP.u1_95pteVoHelkW7zno08AHaEK?w=289&h=180&c=7&r=0&o=5&pid=1.7]
 
+=======
+Happy Gandi Jayanthi to All indians (October 2, 2022)
+
+![image](https://user-images.githubusercontent.com/65100038/193409018-283c38dd-8bda-4d8a-993a-08ede7c87461.png)
+>>>>>>> 30e247bb2a19dc3c9f6708458a8de247334f1f13
