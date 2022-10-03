@@ -3,15 +3,15 @@ Hacktoberfest is an annual festival hosted by DigitalOcean that takes place in t
 
 
 # Hacktoberfest2022-python
-This is an open repo where the users can add any python script that works perectly
+This is an open repo where the users can add any python script that works perfectly
 
-The users can able to add the any script here or add the solution of some problems in problem solving in python for hacktoberfest2022
+The users can able to add any script here or add the solution of some problems in problem-solving in python for hacktoberfest2022
 
 # Join us on discord
 https://discord.gg/pSup8ZZV
 
 
-**How to make successfull PRs**
+**How to make successful PRs**
 
 - [ ] fork this repository
 - [ ] git clone --depth 1 https://github.com/<your_github_user_name>/Hacktoberfest2022-python.git
@@ -29,11 +29,8 @@ https://discord.gg/pSup8ZZV
 - [ ] git add .
 - [ ] git commit -m "commit message"
 - [ ] git push -u origin <your_branch_name_entered_before>
-- [ ]  To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
-- [ ] Add appropriate title and description to your pull request explaining your changes and efforts done.
+- [ ]  To create a pull request, click on `compare and pull requests. Please ensure you compare your feature branch to the desired branch of the repo you are supposed to make a PR to.
+- [ ] Add an appropriate title and description to your pull request explaining your changes and efforts.
 - [ ]  Click on `Create Pull Request`
-- [ ] now you have successfully created an pull request
+- [ ] now you have successfully created a pull request
 
-Happy Gandi Jayanthi to All indians (October 2, 2022)
-
-![image](https://user-images.githubusercontent.com/65100038/193409018-283c38dd-8bda-4d8a-993a-08ede7c87461.png)
