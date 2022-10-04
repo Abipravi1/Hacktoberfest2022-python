@@ -1,75 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04a3ecb3-7679-4d56-ac38-c992ca4bf221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Hacktoberfest2022-python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image-Editor/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/.idea/TodoList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/TodoList/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/TodoList/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/TodoList/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/TodoList/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/TodoList/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/pass.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/templates/tasks/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/templates/tasks/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/templates/tasks/update_task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/TodoList/tasks/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/requirements.txt" afterDir="false" />
+    <list default="true" id="bd179184-470c-4e2e-bb44-bc76489fed1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ImageEditor/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image-Editor/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image-Editor/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image-Editor/preview.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image-Editor/python_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image-Editor/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2FZ6jdUnC7DYFf8mdnGqiXT7cYo" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hacktoberfest2022-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ImageEditor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImageEditor/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Image-Editor" />
-    <property name="settings.editor.selected.configurable" value="MTHome" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Desktop\Hacktoberfest-2022\Hacktoberfest2022-python\Image-Editor" />
-    </key>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="04a3ecb3-7679-4d56-ac38-c992ca4bf221" name="Changes" comment="" />
-      <created>1664687399590</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1664687399590</updated>
-    </task>
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +63,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
