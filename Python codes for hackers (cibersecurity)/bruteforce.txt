@@ -1,0 +1,17 @@
+www
+ns1
+ns2
+ns3
+ns4
+mail
+txt
+ssh
+ftp
+intranet
+extranet
+server
+A
+AAAA
+MX
+NS
+CNAME
