@@ -19,21 +19,21 @@ while True:
 
     print(emotion,score)
     if emotion == 'angry':
-        emoj = cv2.imread('angry.png')
+        emoj = cv2.imread('Reactions/angry.png')
     elif emotion == 'disgust':
-        emoj = cv2.imread('disgust.png')
+        emoj = cv2.imread('Reactions/disgust.png')
     elif emotion == 'fear':
-        emoj = cv2.imread('fear.png')
+        emoj = cv2.imread('Reactions/fear.png')
     elif emotion == 'happy':
-        emoj = cv2.imread('happy.png')
+        emoj = cv2.imread('Reactions/happy.png')
     elif emotion == 'sad':
-        emoj = cv2.imread('sad.png')
+        emoj = cv2.imread('Reactions/sad.png')
     elif emotion == 'surprise':
-        emoj = cv2.imread('surprise.png')
+        emoj = cv2.imread('Reactions/surprise.png')
     elif emotion == 'neutral':
-        emoj = cv2.imread('neutral.png')
+        emoj = cv2.imread('Reactions/neutral.png')
     else:
-        emoj = cv2.imread('none.png')
+        emoj = cv2.imread('Reactions/none.png')
 
 
     #Adding Image on Screen
