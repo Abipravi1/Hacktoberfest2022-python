@@ -1,25 +1,23 @@
-# Program to display the Fibonacci sequence up to n-th term
+def Fibbo_Sequence_Generator():
+    # Generates a fibonacci sequence with the size of ngi
+    runFib = True
+    while(runFib):
+        n = int(input('How many numbers do you need? '))
+        if n > 0 :
+            runFib = False
+            series = [1]
 
-nterms = int(input("How many terms? "))
+            while len(series) < n:
+                if len(series) == 1:
+                    series.append(1)
+                else:
+                    series.append(series[-1] + series[-2])
 
-# first two terms
-n1, n2 = 0, 1
-count = 0
+            for i in range(len(series)):  # Convert the numbers to strings
+                series[i] = str(series[i])
+        else:
+            print('enter a valid number')
 
-# check if the number of terms is valid
-if nterms <= 0:
-   print("Please enter a positive integer")
-# if there is only one term, return n1
-elif nterms == 1:
-   print("Fibonacci sequence upto",nterms,":")
-   print(n1)
-# generate fibonacci sequence
-else:
-   print("Fibonacci sequence:")
-   while count < nterms:
-       print(n1)
-       nth = n1 + n2
-       # update values
-       n1 = n2
-       n2 = nth
-       count += 1
+    return(', '.join(series))  # Return the sequence seperated by commas
+
+print(Fibbo_Sequence_Generator())
