@@ -14,6 +14,9 @@ The users can able to add any script here or add the solution of some problems i
 # Join us on discord
 [Joining link](https://discord.gg/pSup8ZZV)
 
+#Feedback form
+[Give Feedback / Report](https://forms.gle/jEHKDJh48uAFkx2D9)
+
 **How to make successful PRs**
 
 - [ ] fork this repository
