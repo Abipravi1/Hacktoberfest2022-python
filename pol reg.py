@@ -61,9 +61,9 @@ def main() :
     # Visualization 
     plt.scatter( X, Y, color = 'blue' )
     plt.plot( X, Y_pred, color = 'orange' )
-    plt.title( 'X vs Y' )
+    plt.title( 'X VERSUS Y' )
     plt.xlabel( 'X' )
-    plt.ylabel( 'Y' )
+    plt.ylabel( ' Y' )
     plt.show()
  
 if __name__ == "__main__" : 
