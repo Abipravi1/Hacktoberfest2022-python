@@ -35,7 +35,7 @@ trio-websocket==0.9.2
 tweepy==4.10.1
 tzdata==2022.2
 tzlocal==4.2
-urllib3==1.26.12
+urllib3==1.26.18
 virtualenv==20.16.3
 virtualenvwrapper-win==1.2.7
 webdriver-manager==3.8.3
